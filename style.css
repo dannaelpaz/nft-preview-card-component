@@ -23,6 +23,8 @@ body {
 
   font-family: 'Outfit', sans-serif;
   font-weight: 300;
+
+  min-height: 100vh;
 }
 
 a {
@@ -67,6 +69,7 @@ a {
 
   border-bottom: 1px solid var(--very-dark-blue-line);
 }
+
 .data p {
   margin-left: 0.5rem;
 }
